@@ -53,7 +53,7 @@ Submitted entries will be evaluated in depth by an expert assessment committee c
 
 1. [Sign up for a free GitHub acocunt](https://github.com/), if you do not have one already.
 
-2. Submit your entry by filling in the challenge issue template. [Start and issue with the submission template.]()
+2. Submit your entry by filling in the challenge issue template. [Start and issue with the submission template.](https://github.com/Rbanism/scalegis-challenge/issues/new?assignees=cforgaci&labels=submission&projects=&template=challenge-submission-template.md&title=Challenge+submission%3A+%5BADD+PROJECT+TITLE%5D)
 
 Please note that your issue will always be publicly visible as part of this repository.
 
