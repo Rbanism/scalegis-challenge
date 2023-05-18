@@ -3,7 +3,7 @@
 **We invite individuals or teams to submit the workflows of their own scalable GIS research in the urban environment, together with a narrative self-assessment of the level of scalability and challenges involved.** 
 
 ## 1. Introduction
-Conducting research with large geospatial datasets and large-scale analyses that can be challenging. On the other hand, the increasing availability of big geodata and high performance computing infrastructure presents a great opportunity for scaling up urbanism research either to more detailed and diverse datasets or to large-scale analyses on national, continental or even global scale. Recognising this opportunity, the Scalable GIS Challenge for Researchers of the Urban Environment is meant both as a learning experience and as an encouragement for urbanism researchers to make their ongoing GIS work scalable. 
+Conducting research with large geospatial datasets and large-scale analyses that can be challenging. On the other hand, the increasing availability of big geodata and high performance computing infrastructure presents a great opportunity for scaling up urbanism research, either to more detailed and diverse datasets, or to large-scale analyses on national, continental or even global scale. Recognising this opportunity, the Scalable GIS Challenge for Researchers of the Urban Environment is meant both as a learning experience and as an encouragement for urbanism researchers to make their ongoing GIS work scalable. 
 
 The Challenge is organised by TU Delft, Faculty of Architecture and the Built Environment, Department of Urbanism, in collaboration with the TU Delft Library, and it is part of the Netherlands eScience Center fellowship project [Rbanism](https://www.esciencecenter.nl/claudiu-forgaci/), targeting digital competence in the urbanism research community.
 
@@ -51,9 +51,9 @@ Submitted entries will be evaluated in depth by an expert assessment committee c
 
 ## 9. How to submit
 
-1. [Sign up for a free GitHub acocunt](https://github.com/), if you do not have one already.
+1. [Sign up for a free GitHub account](https://github.com/), if you do not have one already.
 
-2. Submit your entry by filling in the challenge issue template. [Start and issue with the submission template.](https://github.com/Rbanism/scalegis-challenge/issues/new?assignees=cforgaci&labels=submission&projects=&template=challenge-submission-template.md&title=Challenge+submission%3A+%5BADD+PROJECT+TITLE%5D)
+2. Submit your entry by filling in the challenge issue template. [Start an issue with the submission template.](https://github.com/Rbanism/scalegis-challenge/issues/new?assignees=cforgaci&labels=submission&projects=&template=challenge-submission-template.md&title=Challenge+submission%3A+%5BADD+PROJECT+TITLE%5D)
 
 Please note that your issue will always be publicly visible as part of this repository.
 
