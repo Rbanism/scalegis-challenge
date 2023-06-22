@@ -1,3 +1,5 @@
+**SUBMISSION DEADLINE EXTENDED TO 22 August 2023!**
+
 # The Scalable GIS Challenge for Researchers of the Urban Environment
 
 **We invite individuals or teams to submit the workflows of their own scalable GIS research in the urban environment, together with a narrative self-assessment of the level of scalability and challenges involved.** 
@@ -34,8 +36,8 @@ Submissions will be ranked based on appropriateness of the chosen scaling strate
 
 ## 5. Timeline
 - Announcement of the challenge: **Monday, 22 May 2023**
-- Challenge closes: **Thursday, 22 June 2023**
-- Closing event and winners announced: **Thursday, 29 June 2023** (Registration information will follow later)
+- Challenge closes: **Thursday, 22 ~~June~~ August 2023**
+- Closing event and winners announced: ~~**Thursday, 29 June 2023**~~ new data tba (Registration information will follow later)
 
 ## 6. Rules
 - Submissions can be done individually or in teams. All members of the submission team have to be authors of the submitted material.
